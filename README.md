@@ -24,8 +24,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 ## 📊 Analysis Pipeline
 
 ### 1. **Data Collection**
-   - Data scraped from the **Edmunds Entry-Level Luxury Performance Sedans** forum.
-   - [Link for the Forum:](https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans)
+   - Data scraped from the **Edmunds Entry-Level Luxury Performance Sedans** [forum](https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans).
    - Over **5000+ posts** with mentions of **various car brands** and consumer aspirations.
 
 ### 2. **Data Preprocessing**
@@ -51,14 +50,18 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 - **Co-occurrence Matrix**:
   - **BMW** and **Acura** are frequently compared, indicating strong competition.
   - **Toyota** and **Honda** are often mentioned together, especially around discussions of **affordability** and **reliability**.
+ ![image](https://github.com/user-attachments/assets/305418a5-bae9-4f49-ac72-4bebb05397d3)
+
 
 - **Lift Ratios**:
   - **Volkswagen and Audi** have the highest lift value (**3.2069**), showing strong brand association.
   - **Toyota and Honda** have a lift value of **3.0502**, highlighting frequent comparisons in the **affordable car market**.
+![image](https://github.com/user-attachments/assets/b079edb5-c894-4405-9be9-32edba7cdbf4)
 
 - **MDS Plot**:
   - **Audi, BMW, Lexus, Infiniti**, and **Acura** cluster closely, indicating frequent consumer comparisons in the **luxury market**.
   - **Mercedes** and **Subaru** are far from other brands, reflecting their **distinct market positions**.
+![image](https://github.com/user-attachments/assets/7b377e8a-7615-4f35-82f1-e5af02121489)
 
 ---
 
@@ -85,46 +88,14 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 ## 📂 Project Structure
 
 ```
-├── src/
-│   ├── scrape_data.py         # Script for scraping Edmunds data
-│   ├── analyze_data.py        # Script for co-occurrence and lift calculations
-│   ├── mds_plot.py            # Script for generating MDS plot
+
 ├── data/
 │   ├── edmunds_forum_posts.csv  # Forum posts data
-│   ├── car_models_and_brands.csv  # Model-to-brand mapping
+│   ├── car_models_and_brands_v1.csv  # Model-to-brand mapping
 ├── notebooks/
-│   ├── Data_Exploration.ipynb  # Data exploration notebook
-├── README.md                 # Project overview and instructions
-├── requirements.txt          # Dependencies
+│   ├── Luxury Car Consumer Perception Analysis.ipynb  # Python notebook
+├── README.md  # Project overview and instructions
 ```
-
----
-
-## ⚙️ How to Run the Project
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/entry-level-luxury-analysis.git
-   ```
-
-2. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Data Scraping Script**:
-   - This will scrape forum posts related to entry-level luxury cars.
-   ```bash
-   python src/scrape_data.py
-   ```
-
-4. **Run Data Analysis**:
-   - Perform co-occurrence and lift ratio calculations:
-   ```bash
-   python src/analyze_data.py
-   ```
-
----
 
 ## 🔮 Conclusion
 
