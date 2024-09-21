@@ -45,7 +45,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-## 📈 Key Analysis Results
+## Key Analysis Results 📈
 
 - **Co-occurrence Matrix**:
   - **BMW** and **Acura** are frequently compared, indicating strong competition.
