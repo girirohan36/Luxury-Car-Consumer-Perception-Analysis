@@ -1,4 +1,4 @@
-# 🚗 Entry-Level Luxury Car Brand Analysis
+# Entry-Level Luxury Car Brand Analysis 🚗
 
 ## 📋 Project Overview
 
@@ -25,6 +25,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ### 1. **Data Collection**
    - Data scraped from the **Edmunds Entry-Level Luxury Performance Sedans** forum.
+   - Link for the Forum  :https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans
    - Over **5000+ posts** with mentions of **various car brands** and consumer aspirations.
 
 ### 2. **Data Preprocessing**
