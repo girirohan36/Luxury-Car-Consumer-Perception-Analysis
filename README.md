@@ -1,12 +1,3 @@
-# Luxury Car Consumer Perception Analysis
-
-
-This project aims to provide a competitive analysis of the entry-level luxury car market based on social media conversations. The analysis is conducted using forum data from Edmunds discussions, focusing on identifying key insights into how consumers perceive, compare, and aspire to own different car brands. We leverage co-occurrence matrices, lift calculations, and multi-dimensional scaling (MDS) to visualize the relationships between these brands.
-
-Certainly! Here's a **GitHub-friendly** version of your `README.md`, which is clean, structured, and visually appealing. It includes clear sections with bullet points, code formatting, and headings to improve readability.
-
----
-
 # 🚗 Entry-Level Luxury Car Brand Analysis
 
 ## 📋 Project Overview
@@ -147,19 +138,3 @@ This project provides valuable insights into the **entry-level luxury car market
 - **Matplotlib** for visualizations
 - **scikit-learn** for MDS plotting
 - **BeautifulSoup** for web scraping
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
-This structure is clean, informative, and follows best practices for a **GitHub** repository README. It provides everything from an overview of the project to instructions on how to run it. You can adjust the links, repository name, or specific content based on your actual project structure.
