@@ -1,10 +1,10 @@
 # Entry-Level Luxury Car Brand Analysis 🚗
 
-## 📋 Project Overview
+##  Project Overview 
 
 This project analyzes **consumer conversations** from **Edmunds forums** to gain insights into the **entry-level luxury car market**. By analyzing the frequency and context of brand mentions, we provide strategic insights into **consumer perceptions**, **aspirational brands**, and **competitor positioning**. The analysis includes **co-occurrence matrices**, **lift calculations**, and **Multi-Dimensional Scaling (MDS)** for visualizing brand relationships.
 
-### 🔍 Key Objectives:
+### Key Objectives:
 - Identify **aspirational brands** based on consumer discussions.
 - Understand **brand comparisons** through co-occurrence analysis.
 - **Calculate lift ratios** to highlight brand associations.
@@ -12,7 +12,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-## 💼 Business Problem
+## Business Problem 💼
 
 **JD Power & Associates** aims to perform a **competitive analysis** of the **entry-level luxury car market** using social media discussions. This analysis answers questions such as:
 - **Which brand is the most aspirational?**
@@ -21,7 +21,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-## 📊 Analysis Pipeline
+##  Analysis Pipeline 📊
 
 ### 1. **Data Collection**
    - Data scraped from the **Edmunds Entry-Level Luxury Performance Sedans** [forum](https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans).
@@ -67,43 +67,43 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ## 📊 Business Insights
 
-### 🔝 **Toyota as the Most Aspirational Brand**
+### **Toyota as the Most Aspirational Brand**
 - **Insight**: Toyota frequently appears in discussions with **aspirational phrases**, driven by its reputation for **reliability** and **hybrid technology**.
 - **Recommendation**: Toyota should highlight its leadership in **green technologies** and **sustainability**, emphasizing its hybrid models.
 
-### 🏎️ **BMW vs. Acura - Strong Comparisons**
+###  **BMW vs. Acura - Strong Comparisons**
 - **Insight**: BMW and Acura are heavily compared, particularly in the **entry-level luxury market**.
 - **Recommendation**: BMW should emphasize its **performance and driving experience**, while Acura can market itself as a more **affordable luxury alternative**.
 
-### 🚗 **Volkswagen and Audi - Cross-Brand Marketing**
+###  **Volkswagen and Audi - Cross-Brand Marketing**
 - **Insight**: Volkswagen and Audi are often mentioned together, reflecting strong associations due to **shared ownership**.
 - **Recommendation**: Cross-brand marketing campaigns should highlight **Volkswagen’s affordability** alongside **Audi’s premium features**.
 
-### 🌄 **Subaru's Niche Positioning**
+###  **Subaru's Niche Positioning**
 - **Insight**: Subaru is infrequently compared to other brands, reflecting its niche appeal as an **adventure and rugged vehicle** brand.
 - **Recommendation**: Subaru should continue targeting **outdoor enthusiasts** and focus on its **all-wheel-drive models**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure 
 
 ```
 
 ├── data/
 │   ├── edmunds_forum_posts.csv  # Forum posts data
 │   ├── car_models_and_brands_v1.csv  # Model-to-brand mapping
-├── notebooks/
+├── notebook/
 │   ├── Luxury Car Consumer Perception Analysis.ipynb  # Python notebook
 ├── README.md  # Project overview and instructions
 ```
 
-## 🔮 Conclusion
+## Conclusion 🔮
 
 This project provides valuable insights into the **entry-level luxury car market**, helping brands like **Toyota, BMW, Audi**, and **Acura** better understand their **market positioning**, **consumer comparisons**, and **aspirational appeal**. These insights can inform **marketing strategies**, **brand differentiation**, and **customer engagement** to maximize brand loyalty and appeal.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack 🛠️
 
 - **Python**
 - **Pandas** for data manipulation
