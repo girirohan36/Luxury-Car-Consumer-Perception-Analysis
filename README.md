@@ -12,7 +12,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-## Business Problem 💼
+## Business Problem 
 
 **JD Power & Associates** aims to perform a **competitive analysis** of the **entry-level luxury car market** using social media discussions. This analysis answers questions such as:
 - **Which brand is the most aspirational?**
@@ -21,7 +21,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-##  Analysis Pipeline 📊
+##  Analysis Pipeline 
 
 ### 1. **Data Collection**
    - Data scraped from the **Edmunds Entry-Level Luxury Performance Sedans** [forum](https://forums.edmunds.com/discussion/2864/general/x/entry-level-luxury-performance-sedans).
@@ -45,7 +45,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-## Key Analysis Results 📈
+## Key Analysis Results 
 
 - **Co-occurrence Matrix**:
   - **BMW** and **Acura** are frequently compared, indicating strong competition.
@@ -65,7 +65,7 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 
 ---
 
-## 📊 Business Insights
+##  Business Insights
 
 ### **Toyota as the Most Aspirational Brand**
 - **Insight**: Toyota frequently appears in discussions with **aspirational phrases**, driven by its reputation for **reliability** and **hybrid technology**.
@@ -97,13 +97,13 @@ This project analyzes **consumer conversations** from **Edmunds forums** to gain
 ├── README.md  # Project overview and instructions
 ```
 
-## Conclusion 🔮
+## Conclusion 
 
 This project provides valuable insights into the **entry-level luxury car market**, helping brands like **Toyota, BMW, Audi**, and **Acura** better understand their **market positioning**, **consumer comparisons**, and **aspirational appeal**. These insights can inform **marketing strategies**, **brand differentiation**, and **customer engagement** to maximize brand loyalty and appeal.
 
 ---
 
-## Tech Stack 🛠️
+## Tech Stack 
 
 - **Python**
 - **Pandas** for data manipulation
