@@ -2,7 +2,7 @@
 
 ##  Project Overview 
 
-This project analyzes **consumer conversations** from **Edmunds forums** to gain insights into the **entry-level luxury car market**. By analyzing the frequency and context of brand mentions, we provide strategic insights into **consumer perceptions**, **aspirational brands**, and **competitor positioning**. The analysis includes **co-occurrence matrices**, **lift calculations**, and **Multi-Dimensional Scaling (MDS)** for visualizing brand relationships.
+This project analyzes **consumer conversations** from **Edmunds forums** to gain insights into the **entry-level luxury car market of USA**. By analyzing the frequency and context of brand mentions, we provide strategic insights into **consumer perceptions**, **aspirational brands**, and **competitor positioning**. The analysis includes **co-occurrence matrices**, **lift calculations**, and **Multi-Dimensional Scaling (MDS)** for visualizing brand relationships.
 
 ### Key Objectives:
 - Identify **aspirational brands** based on consumer discussions.
